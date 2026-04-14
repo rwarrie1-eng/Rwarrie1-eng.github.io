@@ -183,7 +183,7 @@ p {
     grid-template-areas:
       "header header"
       "summary summary"
-      "ingredients instructions";
+      "ingredients instructions"; 
   }
 
   .summary {
